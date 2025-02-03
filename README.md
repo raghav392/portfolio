@@ -32,6 +32,7 @@ Built AWS Redshift-based data solutions, optimizing storage and retrieval perfor
 Automated deployment pipelines using Jenkins and AWS CodePipeline, reducing release cycles.
 
 📂 Featured Projects: Data-Driven Impact
+
 Real-Time Analytics with Kafka & Spark Streaming
 Designed a Kafka-based streaming solution that ingested and processed real-time events, enabling immediate operational insights.
 Reduced data processing lag from hours to seconds, supporting time-sensitive business decisions.
