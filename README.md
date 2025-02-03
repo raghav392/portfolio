@@ -7,6 +7,7 @@ Databases: PostgreSQL, MySQL, Oracle, MongoDB, DynamoDB, Cassandra
 Data Modeling: Normalization, Star Schema, Snowflake Schema
 DevOps & CI/CD: Git, Jenkins, Terraform, Docker, Kubernetes
 Data Visualization: Power BI, Tableau
+
 💼 Professional Journey: Scaling Data Solutions Across Industries
 
 Driving Innovation at MediFast (May 2024 – Present)
